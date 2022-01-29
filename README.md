@@ -9,27 +9,34 @@ The school board has notified Maria and her supervisor that the students_complet
 The following metrics were affected by the changes in the data:
 
 1. District Summary
-![District Summary](http://localhost:8889/view/School_District_Analysis_1/pictures/District%20Summary%20DF.png)
+
+![District Summary](https://github.com/Rosedragon87/Module-4-PyCitySchools-with-Pandas/blob/main/pictures/District%20Summary%20DF.png)
 
 2. School Summary 
-![School Summary](http://localhost:8889/view/School_District_Analysis_1/pictures/School%20Summary.png) 
+
+![School Summary](https://github.com/Rosedragon87/Module-4-PyCitySchools-with-Pandas/blob/main/pictures/School%20Summary.png) 
 
 3. Math & Reading Scores by Grade Level 
-![Math Scores](http://localhost:8889/view/School_District_Analysis_1/pictures/Math%20Scores%20By%20Grade.png)
 
-![Reading Scores](http://localhost:8889/view/School_District_Analysis_1/pictures/Reading%20Scores%20By%20Grade.png)
+![Math Scores](https://github.com/Rosedragon87/Module-4-PyCitySchools-with-Pandas/blob/main/pictures/Math%20Scores%20By%20Grade.png)
+
+![Reading Scores](https://github.com/Rosedragon87/Module-4-PyCitySchools-with-Pandas/blob/main/pictures/Reading%20Scores%20By%20Grade.png)
 
 4. School Size
-![School Size](http://localhost:8889/view/School_District_Analysis_1/pictures/Scores%20By%20School%20Size.png)
+
+![School Size](https://github.com/Rosedragon87/Module-4-PyCitySchools-with-Pandas/blob/main/pictures/Scores%20By%20School%20Size.png)
 
 5. Scores by School Type
-![Scores by School Type](http://localhost:8889/view/School_District_Analysis_1/pictures/Scores%20by%20School%20Type.png)
+
+![Scores by School Type](https://github.com/Rosedragon87/Module-4-PyCitySchools-with-Pandas/blob/main/pictures/Scores%20by%20School%20Type.png)
 
 6. Scores by School Size
-![Scores by School Size](http://localhost:8889/view/School_District_Analysis_1/pictures/Scores%20By%20School%20Size.png)
+
+![Scores by School Size](https://github.com/Rosedragon87/Module-4-PyCitySchools-with-Pandas/blob/main/pictures/Scores%20By%20School%20Size.png)
 
 7. Scores by School Spending
-![Scors by School Spending](http://localhost:8889/view/School_District_Analysis_1/pictures/Spending%20Ranges.png)
+
+![Scors by School Spending](https://github.com/Rosedragon87/Module-4-PyCitySchools-with-Pandas/blob/main/pictures/Spending%20Ranges.png)
 
 
 Summary: 
